@@ -1,0 +1,13 @@
+# VS Code
+.vscode/
+*.json
+
+# 编译产物
+*.exe
+*.out
+*.o
+*.obj
+
+# 其他杂项
+.DS_Store
+Thumbs.db
