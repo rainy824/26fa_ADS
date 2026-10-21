@@ -8,7 +8,7 @@ Data structure & common operations
 ALL Coding Tasks involved in PTA are placed in the directory HW
 
 ## Slides
-ALL Slides used in $26_ADS_yy$ are placed in the directore Slides
+ALL Slides used in __26ADS__ are placed in the directore Slides
 
 ## Project
 There are $8$ alternative project, among which we just choose $2$ to complete:
